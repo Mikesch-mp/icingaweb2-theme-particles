@@ -1,0 +1,5 @@
+Name: Icinga Web 2 Theme Particles
+Version: 1.0.0
+Depends: monitoring
+Description: Particles Theme
+ Credits for the particle effect goes to Vincent Garreau (https://github.com/VincentGarreau/particles.js)
