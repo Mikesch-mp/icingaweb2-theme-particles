@@ -1,6 +1,7 @@
 # Particles theme for Icinga Web 2
 
-By using this theme you are agreeing to never suing the author for any damage which can result from using this theme :)
+This theme adds a nice particle effect to the login screen of Icingaweb 2
+![Icinga Web 2 theme Particles](https://github.com/Mikesch-mp/icingaweb2-theme-particles/raw/master/screenshots/particles_login.png "Particles theme")
 
 ## How to install
 
@@ -17,6 +18,9 @@ icingacli module enable particles
 ```
 
 * Choose theme in admin or user UI
+![Icinga Web 2 theme Particles](https://github.com/Mikesch-mp/icingaweb2-theme-particles/raw/master/screenshots/enable_global.png "Particles theme global")
+![Icinga Web 2 theme Particles](https://github.com/Mikesch-mp/icingaweb2-theme-particles/raw/master/screenshots/enable_user.png "Particles theme user")
+
 
 ## Contribution
 
